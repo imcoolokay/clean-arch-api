@@ -1,4 +1,7 @@
 # Clean Architecture API
+![CI Status](https://github.com/imcoolokay/clean-arch-api/actions/workflows/backend-ci.yml/badge.svg)
+![Bun Version](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white)
 
 This project is a RESTful API built with TypeScript and the Bun runtime. It implements a Clean Architecture approach to separate business logic from infrastructure concerns. 
 
